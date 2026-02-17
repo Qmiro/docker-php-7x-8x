@@ -52,7 +52,7 @@ We set the **PHP** version we want to use in the **docker-compose.yml** file by 
 | PHP version   	       | directory | version support  	                                                       
 |-----------------|---------------------------------------------------------------------------|-----|
 | `7.0.33` 	     | 	php7033                  | Yes |
-| `7.1.30` 	     | 	php7130                  | No |
+| `7.1.5` 	     | 	php715                  | Yes |
 | `7.2.34`	 | 	php7234 | Yes |
 | `7.3.33`	     | 	php7333                                          | Yes |
 | `7.4.33`	     | 	php7433 | Yes |
