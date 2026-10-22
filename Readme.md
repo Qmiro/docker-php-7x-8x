@@ -60,7 +60,7 @@ We set the **PHP** version we want to use in the **docker-compose.yml** file by 
 | `8.1.29`| php8129 | Yes |
 | `8.2.21`| php8221 | Yes |
 | `8.3.9`| php839 | Yes |
-| `8.4.18`| php8418 | Yes |
+| `8.4.27`| php8418 | Yes |
 | `8.5.12`| php8512 | Yes |
 
 ## Comments:
